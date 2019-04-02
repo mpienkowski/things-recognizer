@@ -1,0 +1,7 @@
+<div class="error" *ngIf="errorDetails | async">Error: {{errorDetails | async}}</div>
+<video id="video"
+       autoPlay
+       playsInline
+       muted></video>
+<canvas id="canvas"></canvas>
+<mat-spinner class="spinner" *ngIf="!(isModelLoaded | async)"></mat-spinner>

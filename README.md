@@ -1,6 +1,6 @@
 # ThingsRecognizer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+App for recognizing things using neural networks. Inspired by https://hackernoon.com/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2
 
 ## Development server
 
